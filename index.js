@@ -105,15 +105,11 @@ inquirer.prompt ([
 ${description}
 
 ## Table Of Contents:
-[Installation](#installation)
-
-[Usage](#usage)
-
-[Contribution](#contribution)
-
-[Tests](#tests)
-
-[Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${installation}
@@ -129,10 +125,7 @@ ${tests}
 
 ## Questions
 
-For any questions about this project please contact at https://github.com${userName}
-
-or by Email at ${email}
-    
+For any questions about this project please contact at https://github.com${userName} or by email at ${email} 
 `,
         (err) => err ? console.error(err) : console.log('Successfully Generated README.md!'))
 });
