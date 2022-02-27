@@ -99,17 +99,17 @@ inquirer.prompt ([
 `
 ## ${title}
 
-[![License](https://img.shields.io/badge/License-${license}-blue.svg)],
+![License](https://img.shields.io/badge/License-${license}-blue.svg)
 
 ## Description
 ${description}
 
 ## Table Of Contents:
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Tests](#tests)
-- [Questions](#questions)
+[Installation](#installation)
+[Usage](#usage)
+[Contribution](#contribution)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
 ${installation}
