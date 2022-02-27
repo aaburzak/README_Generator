@@ -1,8 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-// ![GitHub](https://img.shields.io/github/license/${userName}/${repository})
-
 inquirer.prompt ([
         {
             type: "input",
@@ -14,11 +12,6 @@ inquirer.prompt ([
             name: "email",
             message:"Please provide your best email for contact.",
         },
-        // {
-        //     type: "input",
-        //     name: "repository",
-        //     message:"Please provide the GitHub repository for this project.",
-        // },
         {
             type: "input",
             name: "title",

@@ -1,10 +1,10 @@
 
-## Blank
+## README Generator
 
-![License](https://img.shields.io/badge/License-N/A-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-Blank
+This project utilizes nodeJS to generate professionally styled README.md files through your terminal.
 
 ## Table Of Contents:
 - [Installation](#installation)
@@ -14,17 +14,17 @@ Blank
 - [Questions](#questions)
 
 ## Installation
-Blank
+Once cloned use "npm i" command in your terminal to install necessary dependencies. Then use "node index.js" command to intiate.
 
 ## Usage
-Blank
+Follow command line prompts and the application will generate a professional README.md for your project!
 
 ## Contribution
-Blank
+This project is not accepting contributions at this time.
 
 ## Tests
-Blank
+No formal tests have been written for this project. It was verified through the creation of this README.md
 
 ## Questions
 
-For any questions about this project please contact at https://github.comBlank or by email at Blank 
+For any questions about this project please contact at https://github.comaaburzak or by email at aaron.j.burzak@gmail.com 
