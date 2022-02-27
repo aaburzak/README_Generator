@@ -105,11 +105,11 @@ inquirer.prompt ([
 ${description}
 
 ## Table Of Contents:
-- [Installation] (#installation)
-- [Usage] (#usage)
-- [Contribution] (#contribution)
-- [Tests] (#tests)
-- [Questions] (#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${installation}
@@ -131,5 +131,4 @@ or by Email at ${email}
     
 `,
         (err) => err ? console.error(err) : console.log('Successfully Generated README.md!'))
-
 });
