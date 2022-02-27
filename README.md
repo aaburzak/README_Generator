@@ -9,11 +9,11 @@ Utilizes the inquirer dependency to generate professional styled README.md files
 
 
 ## Table Of Contents:
-[Installation] (#installation)
-[Usage] (#usage)
-[Contribution] (#contribution)
-[Tests] (#tests)
-[Questions] (#questions)
+- [Installation] (#installation)
+- [Usage] (#usage)
+- [Contribution] (#contribution)
+- [Tests] (#tests)
+- [Questions] (#questions)
 
 
 ## Installation

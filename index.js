@@ -97,7 +97,7 @@ inquirer.prompt ([
     fs.writeFile('README.md',
 
 `
-#${title}
+## ${title}
 
 ## Description
 ${description}
